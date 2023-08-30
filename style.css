@@ -90,7 +90,7 @@ li {
 .desc {
     visibility:hidden;
     opacity: 0;
-    transition: visibility 0.5s, opacity 1s linear;
+    transition: visibility 0s, opacity 1s linear;
     margin: 50px;
     position: absolute;
     font-size:18px;
